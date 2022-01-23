@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Space+Mono&effect=anaglyph|Noto+Sans');
+
+h1 {
+  font-family: Space Mono, monospace;
+  font-size: 5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60vh;
+}
+
+body {
+  font-family: Noto Sans, sans-serif;
+}
+
+code {
+  font-family: "Lucida Console", Monaco, monospace;
+  font-size: 85%;
+}
