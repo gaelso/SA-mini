@@ -31,7 +31,14 @@ menu:
 params:
   description: "A website built through Hugo and R blogdown."
   footer: "Made with [Hugo](https://gohugo.io/) and [R blogdown](https://github.com/rstudio/blogdown). Inspired by [Hugo Xmin](https://github.com/yihui/hugo-xmin)"
-
+  favicon: favicon.ico
+  logo:
+    alt: Logo
+    height: 50
+    url: logo.png
+    width: 50
+  
+  
 markup:
   highlight:
     codeFences: false
